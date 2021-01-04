@@ -1,0 +1,20 @@
+{
+  "name": "transform-text-capitalize",
+  "version": "1.0.0",
+  "description": "Capitalizes the first letter of every word in a sentence",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url":"git+https://github.com/%3danielortegacareaga25%3E/transform-text-capitalize.git"
+  },
+  "keywords": [
+    "titlecase",
+    "converter",
+    "text"
+  ],
+  "author": "danielortega",
+  "license": "MIT"
+}
